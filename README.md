@@ -19,9 +19,9 @@ A novel hybrid algorithm combining Greedy heuristics with PSO was developed, sho
 -  **Real-Time Visualization**: Animated fleet movements using Plotly and NYC taxi zone maps.
 -  **Surge Demand Simulation**: Based on real event data (Comic Con, Election Rally, etc.)
 -  **Comprehensive Evaluation Metrics**:
-  - Total fare collected
-  - Total trips completed
-  - Total distance traveled (including return trips)
+    - Total fare collected
+    - Total trips completed
+    - Total distance traveled (including return trips)
 
 ---
 
